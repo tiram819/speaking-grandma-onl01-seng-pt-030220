@@ -14,4 +14,5 @@
 
 
 def speak_to_grandma(phrase)
-  answer ""
+  answer "HUH?! SPEAK UP, SONNY!."
+  
