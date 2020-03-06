@@ -15,4 +15,5 @@
 
 def speak_to_grandma(phrase)
   answer "HUH?! SPEAK UP, SONNY!."
+  of phrase == phrae.upcase
   
